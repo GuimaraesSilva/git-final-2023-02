@@ -36,12 +36,3 @@ textarea {
     border-radius: 5px;
     box-sizing: border-box;
 }
-  
-input[type="submit"] {
-    background-color: #4caf50;
-    color: white;
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    cursor: pointer;
-}
